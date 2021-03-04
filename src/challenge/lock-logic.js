@@ -1,3 +1,8 @@
+/* New Branch - challenge-kevinb
+ * Authored by KevinBumgarner
+ * March 3rd,2021
+ */
+
 const redirect = window.redirect
 
 const SECRET_COMBO = [1, 3, 5, 1]
